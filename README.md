@@ -8,6 +8,13 @@
 - 👩‍💻 I'm currently coding with Javascript
 - 🖼 I want to learn soon how to make Websites
 ***
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/cosmic.arpan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cosmic.arpan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/nitrixexe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nitrixexe" height="30" width="40" /></a>
+<a href="https://discord.gg/wAp6Wr2emN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wAp6Wr2emN" height="30" width="40" /></a>
+</p>
+***
 ## My Servers: [**Mikeys Chill Zone**](https://discord.gg/2TzRa8Mt8X) & [**DobbyDev**](https://discord.gg/gmFFBGFBDm)
 
 
