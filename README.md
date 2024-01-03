@@ -4,15 +4,17 @@
 
 ***
 
-<h1 align="center">Hi 👋, I'm JarvisDev</h1>
+<h1 align="center">Hi 👋, I'm Mikey</h1>
 ***
 
 <h3 align="left">Tasks:</h3>
 
 - 👩‍💻 I'm currently coding with Javascript
 - 🖼 I want to soon learn how to make cool Websites
-- 
+
+
 ***
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;">
