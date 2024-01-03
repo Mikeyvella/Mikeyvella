@@ -5,6 +5,7 @@
 ***
 ## <div align="center">I'm Mikeyvella and i just started coding discord bots!</div>  
 ***
+<h3 align="left">Tasks:</h3>
 - 👩‍💻 I'm currently coding with Javascript
 - 🖼 I want to soon learn how to make cool Websites
 - 
