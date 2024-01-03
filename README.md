@@ -14,8 +14,8 @@
 <a href="https://www.youtube.com/c/Mikeyvella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nitrixexe" height="30" width="40" /></a>
 <a href="https://discord.gg/2TzRa8Mt8X" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wAp6Wr2emN" height="30" width="40" /></a>
 </p>
-***
 
+***
 ## My Servers: [**Mikeys Chill Zone**](https://discord.gg/2TzRa8Mt8X) & [**DobbyDev**](https://discord.gg/gmFFBGFBDm)
 
 
