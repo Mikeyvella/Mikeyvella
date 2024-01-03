@@ -3,7 +3,6 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Mikey</h1>
-***
 
 <h3 align="left">Tasks:</h3>
 
