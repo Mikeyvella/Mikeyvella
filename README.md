@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Mikey</h1>
 
 
-<img src="https://camo.githubusercontent.com/10f693789f2b02abaa14dad54e070848807f9018e39cac9ebd6228e5a1774214/68747470733a2f2f646973636f72642e6339392e6e6c2f7769646765742f7468656d652d332f3434323335353739313431323835343738342e706e67" alt="" data-canonical-src="https://discord.c99.nl/widget/theme-3/454751200567623700.png" style="max-width: 100%;">
+<img src="https://discord.c99.nl/widget/theme-3/454751200567623700.png" style="max-width: 100%;">
 
 ***
 
