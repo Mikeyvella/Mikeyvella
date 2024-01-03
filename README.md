@@ -6,6 +6,7 @@
 ## <div align="center">I'm Mikeyvella and i just started coding discord bots!</div>  
 ***
 <h3 align="left">Tasks:</h3>
+
 - 👩‍💻 I'm currently coding with Javascript
 - 🖼 I want to soon learn how to make cool Websites
 - 
@@ -28,6 +29,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mon
 
 ***
 <h3 align="left">My Servers:</h3>
+
 [**Mikeys Chill Zone**](https://discord.gg/2TzRa8Mt8X) & [**DobbyDev**](https://discord.gg/gmFFBGFBDm)
 
 
