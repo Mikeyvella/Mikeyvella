@@ -4,6 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Mikey</h1>
 
+<h3 align="left">Discord Status:</h3>
 
 <img src="https://discord.c99.nl/widget/theme-3/454751200567623700.png" style="max-width: 100%;">
 
