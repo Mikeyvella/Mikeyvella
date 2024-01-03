@@ -6,11 +6,16 @@
 ## <div align="center">I'm Mikeyvella and i just started coding discord bots!</div>  
 ***
 - 👩‍💻 I'm currently coding with Javascript
-- 🖼 I want to learn soon how to make Websites
+- 🖼 I want to soon learn how to make cool Websites
+- 
 ***
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/cosmic.arpan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cosmic.arpan" height="30" width="40" /></a>
+<a href="https://instagram.com/mikeyvellayt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cosmic.arpan" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/Mikeyvella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nitrixexe" height="30" width="40" /></a>
 <a href="https://discord.gg/2TzRa8Mt8X" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wAp6Wr2emN" height="30" width="40" /></a>
 </p>
