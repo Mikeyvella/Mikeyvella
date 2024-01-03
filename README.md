@@ -26,7 +26,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mon
 </p>
 
 ***
-## My Servers: [**Mikeys Chill Zone**](https://discord.gg/2TzRa8Mt8X) & [**DobbyDev**](https://discord.gg/gmFFBGFBDm)
+<h3 align="left">My Servers:</h3>
+[**Mikeys Chill Zone**](https://discord.gg/2TzRa8Mt8X) & [**DobbyDev**](https://discord.gg/gmFFBGFBDm)
 
 
 
